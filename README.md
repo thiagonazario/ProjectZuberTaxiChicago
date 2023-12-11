@@ -1,4 +1,4 @@
-# Projeto: O Clima é o X-Factor das Corridas de Táxi em Chicago?
+# Projeto: O Clima é o X-Factor das Corridas de Táxi em Chicago? 🚖🌦️
 
 Bem-vindo à Zuber, a nova empresa de compartilhamento de caronas de Chicago!
 
