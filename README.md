@@ -22,7 +22,7 @@ Nosso projeto visa responder a uma série de perguntas fundamentais, utilizando 
 
 ## Contribuição
 
-Se você quiser contribuir para este projeto, sinta-se à vontade para abrir issues, propor melhorias ou enviar pull requests. Consulte o guia de contribuição para obter mais detalhes.
+Se você quiser contribuir para este projeto, sinta-se à vontade para abrir issues, propor melhorias ou enviar pull requests.
 
 ## Resultados Esperados
 
